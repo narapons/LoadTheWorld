@@ -15,7 +15,6 @@ class main extends \pocketmine\plugin\PluginBase{
 			}
 		}
 
-
 		$this->getLogger()->info("§a$count 個のワールドを読み込みました！");
 	}
 
